@@ -17,4 +17,7 @@ Fixed the issues and continued to work on the case for the project, will continu
 using any type of modeling software so I am trying my very best!
 
 Day two:
-In progress
+Completed (for now) the case model for the macropad. Double checked my PCB and added a Hack Club logo on there. Began researching how to use QMK for firmware, left confused.
+
+Day two (part two):
+Struggle bussing with QMK and will be consulting AI and looking at others four key macros!
