@@ -6,18 +6,3 @@ My very first project! I am designing a four key macropad. I know it is similar 
 
 # Case
 <img width="1024" height="768" alt="quadrapad render" src="https://github.com/user-attachments/assets/fdc7f43b-3339-47e4-9ce3-cd26421aa4d6" />
-
-# Journal
-Day one:
-Made a first attempt at a four key PCB (without matrix thing) and first attempt at my case for it...
-Unfortunately measurements were off because the parts on the PCB were overlapping so I got my measurements wrong...
-
-Day one (part two):
-Fixed the issues and continued to work on the case for the project, will continue to make it look nice and fancy but this is my first time
-using any type of modeling software so I am trying my very best!
-
-Day two:
-Completed (for now) the case model for the macropad. Double checked my PCB and added a Hack Club logo on there. Began researching how to use QMK for firmware, left confused.
-
-Day two (part two):
-Struggle bussing with QMK and will be consulting AI and looking at others four key macros!
